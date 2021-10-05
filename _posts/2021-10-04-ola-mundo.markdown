@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Olá mundo!"
+date:   2021-10-04 21:43:01 -0300
+categories: general
+---
+O bom e velho clichê da programação, em que tudo começa com algumas linhas de código para verificar se tudo está direito, se as bibliotecas foram instaladas corretamente, se a sintaxe está correta ou se é necessário pesquisar um pouco no Google ou no Stack Overflow.
